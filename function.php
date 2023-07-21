@@ -3,7 +3,7 @@
 // function sayHallo(){
 //     echo "Hallo World!"  . PHP_EOL;
 // }
-$valid=false;
+$valid=true;
 
 if($valid){
     function sayHallo(){
