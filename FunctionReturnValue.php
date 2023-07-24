@@ -29,7 +29,7 @@ function getFinalValue(int $value) {
 };
 
 $score = getFinalValue(60);
-var_dump($score);
+echo($score);
 
 // ..............................
 //Return Type Declarations
